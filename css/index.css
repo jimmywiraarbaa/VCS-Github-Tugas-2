@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+}
+
+#kontak, #profile, .button {
+    padding: 16px;
+    background-color: #252525;
+    color: yellowgreen;
+    border-radius: 12px;
+}
+
+#kontak:hover, #profile:hover{
+    background-color: yellowgreen;
+    color: #252525;
+}

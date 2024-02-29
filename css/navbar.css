@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #252525;
+}
+
+td{
+    justify-content: space-between;
+}
+
+a{
+    padding: 50px;
+    text-decoration: none;
+    color: #FFF9F9;
+}
+
+a:hover{
+    background-color: yellowgreen;
+    color: #252525;
+}
